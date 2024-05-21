@@ -1,2 +1,3 @@
 # COP2002-Example-Repo
-Hello I am harry and I am editing using Git Hub for the first time.
+print("I'm understanding how to use GitHub to keep track of changes!")
+\n
